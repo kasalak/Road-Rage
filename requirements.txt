@@ -1,1 +1,4 @@
 pip install ipython[all]
+numpy
+random
+matplotlib
